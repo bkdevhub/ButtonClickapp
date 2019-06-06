@@ -37,6 +37,9 @@ class MainActivity : AppCompatActivity() {
             }
 
         })
+    }
 
+    private fun neverUsed(){
+        val x = 1
     }
 }
